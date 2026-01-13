@@ -9,6 +9,16 @@ TheBrowser is a C# Windows Forms application that automates the process of:
 - Generating unique browser fingerprints to prevent tracking
 - Launching Chrome instances with spoofed browser characteristics
 - Automatically configuring browser properties to match geographic locations
+  
+
+## How It Works
+1. **Tor Connection**: The application starts the Tor process and waits for initialization
+2. **IP Detection**: Retrieves the current Tor exit node IP address
+3. **Geolocation**: Determines the geographic location of the exit node
+4. **Fingerprint Generation**: Creates a unique browser fingerprint matching the exit node's location
+5. **Browser Launch**: Opens Chrome with the generated fingerprint and routes traffic through Tor
+6. **Monitoring**: Continuously monitors the browser process and Tor connection
+
 
 ## Features
 
@@ -58,14 +68,6 @@ You can modify the path in `Form1.cs` if your Tor Browser is installed in a diff
   - `set1_teil1.json` through `set1_teil5.json`
   - `set2_teil1.json` through `set2_teil5.json`
 
-## How It Works
-
-1. **Tor Connection**: The application starts the Tor process and waits for initialization
-2. **IP Detection**: Retrieves the current Tor exit node IP address
-3. **Geolocation**: Determines the geographic location of the exit node
-4. **Fingerprint Generation**: Creates a unique browser fingerprint matching the exit node's location
-5. **Browser Launch**: Opens Chrome with the generated fingerprint and routes traffic through Tor
-6. **Monitoring**: Continuously monitors the browser process and Tor connection
 
 ## Usage
 

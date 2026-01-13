@@ -122,11 +122,3 @@ Required files:
 - The fingerprint spoofing helps prevent tracking but does not guarantee complete anonymity
 - Tor Browser must be kept up-to-date for security
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-

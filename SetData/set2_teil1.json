@@ -1,0 +1,502 @@
+[
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1290,
+    "ScreenHeight": 2796,
+    "ScreenAvailableHeight": 2796,
+    "ScreenAvailableWidth": 1290,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.7 Safari/605.1.15",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1440,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1440,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1440,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1440,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1170,
+    "ScreenHeight": 2532,
+    "ScreenAvailableHeight": 2532,
+    "ScreenAvailableWidth": 1170,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.7 Safari/605.1.15",
+    "Language": "sv-SE,sv;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1290,
+    "ScreenHeight": 2796,
+    "ScreenAvailableHeight": 2796,
+    "ScreenAvailableWidth": 1290,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1440,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1440,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1170,
+    "ScreenHeight": 2532,
+    "ScreenAvailableHeight": 2532,
+    "ScreenAvailableWidth": 1170,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1290,
+    "ScreenHeight": 2796,
+    "ScreenAvailableHeight": 2796,
+    "ScreenAvailableWidth": 1290,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1290,
+    "ScreenHeight": 2796,
+    "ScreenAvailableHeight": 2796,
+    "ScreenAvailableWidth": 1290,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1290,
+    "ScreenHeight": 2796,
+    "ScreenAvailableHeight": 2796,
+    "ScreenAvailableWidth": 1290,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1440,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1440,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1440,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1440,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 24,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "sv-SE,sv;q=0.9",
+    "ScreenWidth": 1170,
+    "ScreenHeight": 2532,
+    "ScreenAvailableHeight": 2532,
+    "ScreenAvailableWidth": 1170,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.7 Safari/605.1.15",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.7 Safari/605.1.15",
+    "Language": "sv-SE,sv;q=0.9",
+    "ScreenWidth": 1440,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1440,
+    "ColorDepth": 24,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "sv-SE,sv;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1170,
+    "ScreenHeight": 2532,
+    "ScreenAvailableHeight": 2532,
+    "ScreenAvailableWidth": 1170,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.4 Safari/605.1.15",
+    "Language": "sv-SE,sv;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.7 Safari/605.1.15",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1170,
+    "ScreenHeight": 2532,
+    "ScreenAvailableHeight": 2532,
+    "ScreenAvailableWidth": 1170,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1 Safari/605.1.15",
+    "Language": "sv-SE,sv;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 24,
+    "Platform": "macOS"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Mobile/15E148 Safari/604.1",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1290,
+    "ScreenHeight": 2796,
+    "ScreenAvailableHeight": 2796,
+    "ScreenAvailableWidth": 1290,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.3 Mobile/15E148 Safari/604.1",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1024,
+    "ScreenHeight": 1366,
+    "ScreenAvailableHeight": 1366,
+    "ScreenAvailableWidth": 1024,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.10 Mobile/15E148 Safari/604.1",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPad)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Mobile/15E148 Safari/604.1",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "iOS (iPhone)"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1280,
+    "ScreenHeight": 800,
+    "ScreenAvailableHeight": 800,
+    "ScreenAvailableWidth": 1280,
+    "ColorDepth": 32,
+    "Platform": "macOS"
+  }
+]

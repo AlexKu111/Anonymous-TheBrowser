@@ -1,0 +1,403 @@
+[
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "React Developer Tools", "JSON Viewer", "uBlock Origin", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Grammarly", "Cisco Webex Extension", "Adblock Plus" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "uBlock Origin", "Dark Reader", "Bitwarden" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pinterest Save Button", "ColorZilla", "Grammarly", "Adblock Plus" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "LastPass", "FoxyProxy Standard", "User-Agent Switcher" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Google Translate", "Zotero Connector", "Grammarly" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Vue.js devtools", "Redux DevTools", "uBlock Origin" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Honey", "Adblock Plus", "Rakuten" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "uBlock Origin", "Privacy Badger", "NoScript" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": []
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Power Automate", "Salesforce Inspector", "Grammarly" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Adblock Plus", "Dark Reader", "Google Translate" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Netflix Party is now Teleparty", "Honey" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "React Developer Tools", "ColorZilla", "Wappalyzer" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "uBlock Origin", "Bitwarden", "Tampermonkey", "Dark Reader" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Cisco Webex Extension", "Microsoft 365" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pinterest Save Button", "uBlock Origin", "Dark Reader" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Grammarly", "Zotero Connector", "LanguageTool" ]
+  },
+  {
+    "browser": "Chrome",
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Postman Interceptor", "JSON Viewer", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Adblock Plus", "Microsoft Rewards" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "BetterTTV", "uBlock Origin", "Honey" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "NoScript", "HTTPS Everywhere" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Salesforce", "LinkedIn Sales Navigator", "Grammarly" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Jupyter Notebook Viewer", "uBlock Origin", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "uBlock Origin" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Adblock Plus", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Dark Reader", "Bitwarden", "Checker Plus for Gmail" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Frame.io", "uBlock Origin", "VidlQ Vision for YouTube" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Adblock Plus", "Grammarly Lite" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "User-Agent Switcher", "FoxyProxy Standard", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Drawboard PDF", "Microsoft Office", "OneNote Web Clipper" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "uBlock Origin", "Bitwarden" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Google Classroom", "Kami", "Screencastify" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "SoundCloud Downloader", "uBlock Origin", "Dark Reader" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "MozBar", "Keywords Everywhere", "Grammarly", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Stripe Payments", "Square POS" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "React Developer Tools", "Redux DevTools", "JSON Viewer Pro" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Microsoft 365", "Grammarly", "LastPass", "LinkedIn Recruiter" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "uBlock Origin", "Privacy Badger", "Bitwarden" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Adblock Plus", "Steam Inventory Helper" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Google Keep", "Dark Reader", "uBlock Origin" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Grammarly", "LanguageTool", "Adblock Plus" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Adblock Plus", "Honey", "Microsoft Family Safety" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "React Developer Tools", "uBlock Origin", "Bitwarden" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "BetterTTV", "FrankerFaceZ", "uBlock Origin", "Streamlabs" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Zotero Connector", "Mendeley Web Importer", "uBlock Origin" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Dark Reader", "Adblock Plus", "LastPass" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "LastPass", "Cisco Webex Extension", "Salesforce" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Plex", "uBlock Origin", "Remote for YouTube" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Silverlight", "Java Plug-in" ]
+  }
+]

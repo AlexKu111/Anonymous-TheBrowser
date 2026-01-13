@@ -1,0 +1,402 @@
+[
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 12,
+    "MaxTouchPoints": 10,
+    "DoNotTrack": "0",
+    "Permissions": "Camera, Microphone"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 1,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 2,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 16,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 16,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 10,
+    "DoNotTrack": "1",
+    "Permissions": "Camera"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 12,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 1,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 12,
+    "MaxTouchPoints": 10,
+    "DoNotTrack": "1",
+    "Permissions": "Camera, Microphone"
+  },
+  {
+    
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 2,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 16,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 1,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 1,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Camera"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 12,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 10,
+    "DoNotTrack": "0",
+    "Permissions": "Camera, Microphone"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 16,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 1,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 12,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 10,
+    "DoNotTrack": "1",
+    "Permissions": "Camera"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 8,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 16,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+    "MaxTouchPoints": 0,
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  }
+]

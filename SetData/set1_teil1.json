@@ -1,0 +1,502 @@
+[
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/128.0",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/131.0",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1366,
+    "ScreenHeight": 768,
+    "ScreenAvailableHeight": 768,
+    "ScreenAvailableWidth": 1366,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/120.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/125.0",
+    "Language": "pl-PL,pl;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Language": "pl-PL,pl;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/118.0.0.0 Safari/537.36",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/131.0",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/121.0.0.0 Safari/537.36",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/126.0.0.0 Safari/537.36",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/118.0.0.0 Safari/537.36",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Language": "ru-RU,ru;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/118.0.0.0 Safari/537.36",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/120.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/126.0.0.0 Safari/537.36",
+    "Language": "pl-PL,pl;q=0.9",
+    "ScreenWidth": 1366,
+    "ScreenHeight": 768,
+    "ScreenAvailableHeight": 768,
+    "ScreenAvailableWidth": 1366,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/120.0.0.0 Safari/537.36",
+    "Language": "ru-RU,ru;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/135.0",
+    "Language": "nl-NL,nl;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/125.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36",
+    "Language": "ru-RU,ru;q=0.9",
+    "ScreenWidth": 1366,
+    "ScreenHeight": 768,
+    "ScreenAvailableHeight": 768,
+    "ScreenAvailableWidth": 1366,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/120.0.0.0 Safari/537.36",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/131.0",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/120.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/118.0.0.0 Safari/537.36",
+    "Language": "en-US,en;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/124.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 1366,
+    "ScreenHeight": 768,
+    "ScreenAvailableHeight": 768,
+    "ScreenAvailableWidth": 1366,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 24,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+    "Language": "ru-RU,ru;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/132.0",
+    "Language": "de-DE,de;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 32,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/121.0.0.0 Safari/537.36",
+    "Language": "pl-PL,pl;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/114.0.0.0 Safari/537.36",
+    "Language": "ru-RU,ru;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 24,
+    "Platform": "Windows 11"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/138.0",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/118.0.0.0 Safari/537.36",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/132.0",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/135.0",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",
+    "Language": "ru-RU,ru;q=0.9",
+    "ScreenWidth": 2560,
+    "ScreenHeight": 1440,
+    "ScreenAvailableHeight": 1440,
+    "ScreenAvailableWidth": 2560,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/133.0",
+    "Language": "fr-FR,fr;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 24,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Edg/122.0.0.0 Safari/537.36",
+    "Language": "pl-PL,pl;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/132.0",
+    "Language": "es-ES,es;q=0.9",
+    "ScreenWidth": 1536,
+    "ScreenHeight": 864,
+    "ScreenAvailableHeight": 864,
+    "ScreenAvailableWidth": 1536,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/137.0",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1920,
+    "ScreenHeight": 1080,
+    "ScreenAvailableHeight": 1080,
+    "ScreenAvailableWidth": 1920,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Firefox/135.0",
+    "Language": "it-IT,it;q=0.9",
+    "ScreenWidth": 1600,
+    "ScreenHeight": 900,
+    "ScreenAvailableHeight": 900,
+    "ScreenAvailableWidth": 1600,
+    "ColorDepth": 32,
+    "Platform": "Windows 10"
+  },
+  {
+    "UserAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+    "Language": "pl-PL,pl;q=0.9",
+    "ScreenWidth": 1366,
+    "ScreenHeight": 768,
+    "ScreenAvailableHeight": 768,
+    "ScreenAvailableWidth": 1366,
+    "ColorDepth": 32,
+    "Platform": "Linux"
+  }
+]

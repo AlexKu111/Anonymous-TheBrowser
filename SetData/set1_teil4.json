@@ -1,0 +1,498 @@
+[
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 4,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 4,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 4,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 4,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 3,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 2
+    }
+  },
+  {
+      
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 0
+    }
+  }
+]

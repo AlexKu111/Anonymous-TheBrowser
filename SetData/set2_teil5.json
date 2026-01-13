@@ -1,0 +1,402 @@
+[
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "SpotlightIndexer", "TimeMachine", "SafariReaderView" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "FinalCutPro", "LogicProX", "MetalFX", "SidecarDisplay" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "iMovie", "GarageBand", "Pages", "Keynote" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine", "Rosetta2" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "XcodeTools", "CoreML", "MetalFX", "ContinuityCamera" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pages", "Numbers", "Keynote", "iMovie" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "SpotlightIndexer", "HomeKitBridge" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "AdobePhotoshop", "AdobeIllustrator", "SidecarDisplay" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine", "SpotlightIndexer", "Rosetta2" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "GarageBand", "Pages", "ContinuityCamera" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "FinalCutPro", "DaVinciResolve", "LogicProX", "MetalFX" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "MicrosoftOfficeSuite", "Rosetta2" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "iMovie", "Keynote", "HomeKitBridge" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "XcodeTools", "SidecarDisplay", "CoreML" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pages", "Numbers", "SafariReaderView" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "SpotlightIndexer", "Rosetta2", "TimeMachine" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "LogicProX", "FinalCutPro", "AdobeSuite", "MetalFX" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "GarageBand", "iMovie" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "HomeKitBridge", "TimeMachine" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "SidecarDisplay", "ContinuityCamera", "Keynote" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "SpotlightIndexer", "Rosetta2" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pages", "Numbers", "Keynote", "iMovie", "GarageBand" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "XcodeTools", "FinalCutPro", "CoreML" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine", "SafariReaderView" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "iMovie", "GarageBand", "SidecarDisplay" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "AdobePhotoshop", "MetalFX", "Keynote" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Rosetta2", "SpotlightIndexer" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pages", "Numbers", "ContinuityCamera" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "LogicProX", "MetalFX", "XcodeTools" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine", "HomeKitBridge" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "FinalCutPro", "SidecarDisplay" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "GarageBand", "iMovie", "Pages" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "SpotlightIndexer" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "CoreML", "MetalFX", "FinalCutPro", "LogicProX" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Keynote", "Numbers", "SafariReaderView" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Rosetta2", "TimeMachine" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "SidecarDisplay", "XcodeTools", "AdobeIllustrator" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "iMovie", "ContinuityCamera" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine", "SpotlightIndexer", "HomeKitBridge" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "DaVinciResolve", "MetalFX", "CoreML" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "MicrosoftOfficeSuite" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "Pages", "GarageBand", "Keynote" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "FinalCutPro", "ContinuityCamera", "SidecarDisplay" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "Rosetta2" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "iMovie", "Numbers", "HomeKitBridge" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 10,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "LogicProX", "XcodeTools", "SidecarDisplay" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 0,
+      "touchEvent": false,
+      "onTouchStart": false
+    },
+    "Plugins": [ "TimeMachine", "SpotlightIndexer", "SafariReaderView" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 5,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "AdobeSuite", "MetalFX" ]
+  },
+  {
+    "TouchSupport": {
+      "maxTouchPoints": 3,
+      "touchEvent": true,
+      "onTouchStart": true
+    },
+    "Plugins": [ "GarageBand", "Pages", "Keynote" ]
+  }
+]

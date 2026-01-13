@@ -1,0 +1,137 @@
+[
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 2
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 2
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 2
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 2
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 1
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 1,
+      "videoinput": 2
+    }
+  },
+  {
+    "LocalStorage": true,
+    "SessionStorage": true,
+    "IndexedDB": true,
+    "MediaDevices": {
+      "audioinput": 2,
+      "videoinput": 2
+    }
+  }
+]

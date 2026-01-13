@@ -1,0 +1,352 @@
+[
+  {
+ 
+    "Fonts": [ "Arial", "Courier New", "Times New Roman", "Segoe UI" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce GTX 1060 6GB",
+    "AudioFingerprint": "a1b2c3d4e5f678901234567890abcdef"
+  },
+  {
+ 
+    "Fonts": [ "Calibri", "Segoe UI", "Consolas", "Verdana" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon RX 6700 XT",
+    "AudioFingerprint": "b2c3d4e5f678901234567890abcdefa1"
+  },
+  {
+ 
+    "Fonts": [ "DejaVu Sans", "Liberation Mono", "Noto Sans", "Ubuntu" ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Mesa DRI Intel(R) UHD Graphics 620 (KBL GT2)",
+    "AudioFingerprint": "c3d4e5f678901234567890abcdefa1b2"
+  },
+  {
+ 
+    "Fonts": [ "Verdana", "Georgia", "Courier New", "Tahoma" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 3080",
+    "AudioFingerprint": "d4e5f678901234567890abcdefa1b2c3"
+  },
+  {
+ 
+    "Fonts": [ "Arial", "Segoe UI", "Lucida Console", "Calibri" ],
+    "WebGLVendor": "Intel(R) Corporation",
+    "WebGLRenderer": "Intel(R) Iris(R) Xe Graphics",
+    "AudioFingerprint": "e5f678901234567890abcdefa1b2c3d4"
+  },
+  {
+ 
+    "Fonts": [ "Droid Sans", "Noto Serif", "DejaVu Serif", "Liberation Sans" ],
+    "WebGLVendor": "ATI Technologies Inc.",
+    "WebGLRenderer": "AMD Radeon RX 580 Series",
+    "AudioFingerprint": "f678901234567890abcdefa1b2c3d4e5"
+  },
+  {
+ 
+    "Fonts": [ "Courier New", "Times New Roman", "Arial", "Verdana" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce GTX 1650",
+    "AudioFingerprint": "0123456789abcdefa1b2c3d4e5f67890"
+  },
+  {
+ 
+    "Fonts": [ "Segoe UI", "Calibri", "Consolas", "Times New Roman" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "Radeon (TM) Graphics",
+    "AudioFingerprint": "123456789abcdefa1b2c3d4e5f678900"
+  },
+  {
+ 
+    "Fonts": [ "Ubuntu", "Noto Sans", "DejaVu Sans Mono", "Liberation Serif" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 2060/PCIe/SSE2",
+    "AudioFingerprint": "23456789abcdefa1b2c3d4e5f6789001"
+  },
+  {
+ 
+    "Fonts": [ "Arial Black", "Comic Sans MS", "Impact", "Times New Roman" ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel(R) HD Graphics 520",
+    "AudioFingerprint": "3456789abcdefa1b2c3d4e5f67890012"
+  },
+  {
+ 
+    "Fonts": [ "Gadugi", "Franklin Gothic Medium", "Segoe UI", "Calibri" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 3070 Ti",
+    "AudioFingerprint": "456789abcdefa1b2c3d4e5f678900123"
+  },
+  {
+ 
+    "Fonts": [ "Cantarell", "Fira Sans", "Roboto", "Noto Sans" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD NAVI10 (DRM 3.40.0, 5.11.0-27-generic, LLVM 12.0.0)",
+    "AudioFingerprint": "56789abcdefa1b2c3d4e5f6789001234"
+  },
+  {
+ 
+    "Fonts": [ "Times New Roman", "Georgia", "Arial", "Courier New" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon(TM) Vega 8 Graphics",
+    "AudioFingerprint": "6789abcdefa1b2c3d4e5f67890012345"
+  },
+  {
+ 
+    "Fonts": [ "Bahnschrift", "Segoe UI Emoji", "Calibri", "Consolas" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce MX450",
+    "AudioFingerprint": "789abcdefa1b2c3d4e5f678900123456"
+  },
+  {
+ 
+    "Fonts": [ "Open Sans", "Lato", "Montserrat", "Source Sans Pro" ],
+    "WebGLVendor": "Intel Corporation",
+    "WebGLRenderer": "Mesa Intel(R) Iris(R) Xe Graphics (TGL GT2)",
+    "AudioFingerprint": "89abcdefa1b2c3d4e5f6789001234567"
+  },
+  {
+ 
+    "Fonts": [ "Consolas", "Courier New", "Lucida Console", "MS Gothic" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA Quadro P2200",
+    "AudioFingerprint": "9abcdefa1b2c3d4e5f67890012345678"
+  },
+  {
+ 
+    "Fonts": [ "Segoe UI", "Arial", "Times New Roman", "Verdana" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon RX 6600",
+    "AudioFingerprint": "abcdefa1b2c3d4e5f678900123456789"
+  },
+  {
+ 
+    "Fonts": [ "Liberation Sans", "DejaVu Sans", "FreeSans", "Nimbus Sans" ],
+    "WebGLVendor": "X.Org",
+    "WebGLRenderer": "AMD RV770 (DRM 2.50.0 / 5.4.0-91-generic, LLVM 12.0.0)",
+    "AudioFingerprint": "bcdefa1b2c3d4e5f678900123456789a"
+  },
+  {
+ 
+    "Fonts": [ "Calibri", "Cambria", "Candara", "Constantia" ],
+    "WebGLVendor": "Intel(R) Corporation",
+    "WebGLRenderer": "Intel(R) UHD Graphics 630",
+    "AudioFingerprint": "cdefa1b2c3d4e5f678900123456789ab"
+  },
+  {
+ 
+    "Fonts": [ "Sitka Small", "Segoe UI", "Calibri Light", "Consolas" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 2070 Super",
+    "AudioFingerprint": "defa1b2c3d4e5f678900123456789abc"
+  },
+  {
+ 
+    "Fonts": [ "Arimo", "Cousine", "Tinos", "Noto Sans" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "GeForce GTX 1080 Ti/PCIe/SSE2",
+    "AudioFingerprint": "efa1b2c3d4e5f678900123456789abcd"
+  },
+  {
+ 
+    "Fonts": [ "Tahoma", "Trebuchet MS", "Verdana", "Georgia" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon RX 5700 XT",
+    "AudioFingerprint": "fa1b2c3d4e5f678900123456789abcde"
+  },
+  {
+ 
+    "Fonts": [ "Calibri", "Segoe UI", "Consolas", "Courier New" ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel(R) HD Graphics 6000",
+    "AudioFingerprint": "a1b2c3d4e5f678900123456789abcdef"
+  },
+  {
+ 
+    "Fonts": [ "DejaVu Sans", "Liberation Mono", "Noto Sans", "Ubuntu Mono" ],
+    "WebGLVendor": "AMD",
+    "WebGLRenderer": "Radeon RX 550 / 550 Series",
+    "AudioFingerprint": "b2c3d4e5f678900123456789abcdefa"
+  },
+  {
+ 
+    "Fonts": [ "Arial", "Helvetica", "sans-serif", "Times New Roman" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce GTX 970",
+    "AudioFingerprint": "c3d4e5f678900123456789abcdefa1"
+  },
+  {
+ 
+    "Fonts": [ "Segoe UI", "Roboto", "Helvetica Neue", "Calibri" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon RX 6800M",
+    "AudioFingerprint": "d4e5f678900123456789abcdefa1b"
+  },
+  {
+ 
+    "Fonts": [ "Fira Mono", "Source Code Pro", "Inconsolata", "JetBrains Mono" ],
+    "WebGLVendor": "Intel",
+    "WebGLRenderer": "Mesa DRI Intel(R) HD Graphics 4600 (HSW GT2)",
+    "AudioFingerprint": "e5f678900123456789abcdefa1b2"
+  },
+  {
+ 
+    "Fonts": [ "MS Sans Serif", "Courier New", "Symbol", "Wingdings" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA Quadro RTX 4000",
+    "AudioFingerprint": "f678900123456789abcdefa1b2c"
+  },
+  {
+ 
+    "Fonts": [ "Calibri", "Segoe UI Historic", "Consolas", "Ebrima" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon RX 6900 XT",
+    "AudioFingerprint": "678900123456789abcdefa1b2c3"
+  },
+  {
+ 
+    "Fonts": [ "Ubuntu", "Droid Sans", "Liberation Sans", "Noto Color Emoji" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "AudioFingerprint": "78900123456789abcdefa1b2c3d"
+  },
+  {
+ 
+    "Fonts": [ "Georgia", "Palatino Linotype", "Book Antiqua", "Times New Roman" ],
+    "WebGLVendor": "Intel Corporation",
+    "WebGLRenderer": "Intel(R) Iris(R) Plus Graphics",
+    "AudioFingerprint": "8900123456789abcdefa1b2c3d4"
+  },
+  {
+ 
+    "Fonts": [ "Leelawadee UI", "Microsoft JhengHei UI", "Segoe UI", "Calibri" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce GTX 1660 Ti",
+    "AudioFingerprint": "900123456789abcdefa1b2c3d4e"
+  },
+  {
+ 
+    "Fonts": [ "DejaVu Serif", "Liberation Serif", "Times", "Noto Serif" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc. [AMD/ATI]",
+    "WebGLRenderer": "AMD BONAIRE (DRM 2.50.0, 5.13.0-52-generic, LLVM 12.0.1)",
+    "AudioFingerprint": "00123456789abcdefa1b2c3d4e5"
+  },
+  {
+ 
+    "Fonts": [ "Arial", "Courier New", "Tahoma", "Verdana" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon Pro WX 3200",
+    "AudioFingerprint": "0123456789abcdefa1b2c3d4e5f"
+  },
+  {
+ 
+    "Fonts": [ "Segoe UI Variable", "Calibri", "Consolas", "Candara" ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel(R) Arc(TM) A770 Graphics",
+    "AudioFingerprint": "123456789abcdefa1b2c3d4e5f6"
+  },
+  {
+ 
+    "Fonts": [ "Bitstream Charter", "URW Gothic", "Nimbus Mono PS", "FreeMono" ],
+    "WebGLVendor": "VMware, Inc.",
+    "WebGLRenderer": "SVGA3D; build: 18751382; ",
+    "AudioFingerprint": "23456789abcdefa1b2c3d4e5f67"
+  },
+  {
+ 
+    "Fonts": [ "Impact", "Georgia", "Courier New", "Arial Black" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA TITAN RTX",
+    "AudioFingerprint": "3456789abcdefa1b2c3d4e5f678"
+  },
+  {
+ 
+    "Fonts": [ "Calibri", "Segoe UI", "Consolas", "Bahnschrift" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon VII",
+    "AudioFingerprint": "456789abcdefa1b2c3d4e5f6789"
+  },
+  {
+ 
+    "Fonts": [ "Roboto Mono", "Fira Code", "Victor Mono", "Hack" ],
+    "WebGLVendor": "Intel",
+    "WebGLRenderer": "Mesa Intel(R) UHD Graphics (CML GT2)",
+    "AudioFingerprint": "56789abcdefa1b2c3d4e5f6789a"
+  },
+  {
+ 
+    "Fonts": [ "Verdana", "Geneva", "sans-serif", "Courier New" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 2080 Ti",
+    "AudioFingerprint": "6789abcdefa1b2c3d4e5f6789ab"
+  },
+  {
+ 
+    "Fonts": [ "Segoe UI", "Calibri", "Arial", "Times New Roman" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon RX 5600M",
+    "AudioFingerprint": "789abcdefa1b2c3d4e5f6789abc"
+  },
+  {
+ 
+    "Fonts": [ "Cantarell", "Overpass", "Open Sans", "Droid Sans" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "Quadro T2000/PCIe/SSE2",
+    "AudioFingerprint": "89abcdefa1b2c3d4e5f6789abcd"
+  },
+  {
+ 
+    "Fonts": [ "Garamond", "Times New Roman", "Georgia", "Courier New" ],
+    "WebGLVendor": "Intel Corporation",
+    "WebGLRenderer": "Intel(R) HD Graphics 530",
+    "AudioFingerprint": "9abcdefa1b2c3d4e5f6789abcde"
+  },
+  {
+ 
+    "Fonts": [ "Calibri", "Segoe Fluent Icons", "Consolas", "Courier New" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce MX330",
+    "AudioFingerprint": "abcdefa1b2c3d4e5f6789abcdef"
+  },
+  {
+ 
+    "Fonts": [ "AnjaliOldLipi", "Chandas", "Lohit Devanagari", "Noto Sans" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc. [AMD/ATI]",
+    "WebGLRenderer": "AMD ICELAND (DRM 3.41.0, 5.15.0-33-generic, LLVM 13.0.1)",
+    "AudioFingerprint": "bcdefa1b2c3d4e5f6789abcdef0"
+  },
+  {
+ 
+    "Fonts": [ "Franklin Gothic Medium", "Arial Narrow", "Arial", "Courier New" ],
+    "WebGLVendor": "Advanced Micro Devices, Inc.",
+    "WebGLRenderer": "AMD Radeon R9 390 Series",
+    "AudioFingerprint": "cdefa1b2c3d4e5f6789abcdef01"
+  },
+  {
+ 
+    "Fonts": [ "Segoe UI", "Calibri", "Verdana", "Times New Roman" ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel(R) UHD Graphics 770",
+    "AudioFingerprint": "defa1b2c3d4e5f6789abcdef012"
+  },
+  {
+ 
+    "Fonts": [ "Nimbus Roman", "FreeSerif", "URW Bookman", "DejaVu Serif" ],
+    "WebGLVendor": "X.Org",
+    "WebGLRenderer": "llvmpipe (LLVM 12.0.0, 256 bits)",
+    "AudioFingerprint": "efa1b2c3d4e5f6789abcdef0123"
+  },
+  {
+ 
+    "Fonts": [ "Courier New", "Lucida Sans Typewriter", "Consolas", "Fixedsys" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce GT 710",
+    "AudioFingerprint": "fa1b2c3d4e5f6789abcdef01234"
+  },
+  {
+ 
+    "Fonts": [ "Aptos", "Grandview", "Segoe UI", "Calibri" ],
+    "WebGLVendor": "NVIDIA Corporation",
+    "WebGLRenderer": "NVIDIA GeForce RTX 4090",
+    "AudioFingerprint": "a1b2c3d4e5f6789abcdef012345"
+  }
+]

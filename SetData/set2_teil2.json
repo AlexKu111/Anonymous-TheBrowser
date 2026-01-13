@@ -1,0 +1,402 @@
+[
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 8,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 8,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 8,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 8,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 6,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Notifications"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 8,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 8,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 32,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Browser"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 10,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 4,
+    "HardwareConcurrency": 2,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Microphone"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 16,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "1",
+    "Permissions": "Clipboard"
+  },
+  {
+    "Platform": "MacIntel",
+    "DeviceMemory": 8,
+    "HardwareConcurrency": 4,
+ 
+    "DoNotTrack": "0",
+    "Permissions": "Microphone"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "12f141c4e4"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "c0acece83f"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "397d8e1b63"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "f6ab217c01"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "890434d54c"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "3b25d6937a"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "7164e50da9"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "d50f3e11c8"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "7258da740b"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "b7791f1a25"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "564fb9be3d"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "24102a11bf"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "f24d531d17"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "58dbf35623"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "8b628c1453"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "6a0b804d7e"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "17ccfbb1b7"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "c98d260751"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "e3d0fa50c0"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "2fa61f83ac"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "86243612f7"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "bb9f20700a"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "c5c674546f"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "5fdb36eed9"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "289ec5655c"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "b3dcf77058"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "b09d661a0f"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "465a858d6b"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "2fff709f34"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "88630b8b2e"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "5ef509be12"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "AMD Inc.",
+    "WebGLRenderer": "AMD Radeon Pro 5500M",
+    "AudioFingerprint": "e0c4271b52"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "89167fa0d5"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "5e4db8cd4f"
+  },
+  {
+    "Fonts": [
+      "Monaco",
+      "Menlo"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "81f1de834e"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "e44c586f08"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "85b5484800"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "64a49293e1"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "8b91e8d779"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "16b53b9482"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "07a89dcfa9"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "a3ec04a95c"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M2",
+    "AudioFingerprint": "426d70f9ac"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "6556723da5"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M3",
+    "AudioFingerprint": "ff16fd39e2"
+  },
+  {
+    "Fonts": [
+      "Helvetica",
+      "Arial"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "e74b30cc84"
+  },
+  {
+    "Fonts": [
+      "Geneva",
+      "Lucida Grande"
+    ],
+    "WebGLVendor": "Intel Inc.",
+    "WebGLRenderer": "Intel Iris Plus Graphics",
+    "AudioFingerprint": "a895d181a6"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "2a46ae743f"
+  },
+  {
+    "Fonts": [
+      "San Francisco",
+      "Arial"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "78fc0ee968"
+  },
+  {
+    "Fonts": [
+      "Courier New",
+      "Times New Roman"
+    ],
+    "WebGLVendor": "Apple Inc.",
+    "WebGLRenderer": "Apple M1",
+    "AudioFingerprint": "adf3caed3d"
+  }
+]
